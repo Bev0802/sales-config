@@ -16,6 +16,4 @@ api:
     webApiSalesAccounting: http://localhost:8765/webApiSalesAccounting/
     webApiShop: http://localhost:8765/webApiShop/
 
-
-
 tmpVar: configServer
